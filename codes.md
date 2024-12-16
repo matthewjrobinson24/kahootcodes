@@ -1,5 +1,3 @@
-    05887914
-    06151097
 ## What are the five operational domains?
     Air, Land, Maritime, Space, Cyberspace
 ## The Space Domain is the area above the altitude where atmospheric effects are negligble.
@@ -39,8 +37,7 @@
 ## ___ actions establish, maintain, influence, or exploit relations among military forces, native peoples, & institutions.
     Civil Military Operations
 ___________________________________________________________________________________________________________________________
-    08084652
-    06419529
+# *
 ## _____ is a maneuver space essential for facilitating control within the Operational Environment (OE)
     Electromagnetic Spectrum (EMS)
 ## The EMOE is a maneuver space and battle space where competition and warfare are conducted
@@ -120,8 +117,7 @@ ________________________________________________________________________________
 ## Which titles key focus is Foreign Intelligence and Counter-Intelligence activities?
     Title 50
 ___________________________________________________________________________________________________________________________
-    
-    
+# *     04030573    0543888    01349935    04249987    02315543
 ## 
     
 ## 
